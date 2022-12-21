@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+setup.py
+bit_visualize/bit_ops.py
+bit_visualize/test_visualizer.py
+bit_visualize/variables.py
+bit_visualize/visualizer.py
+bit_visualize.egg-info/PKG-INFO
+bit_visualize.egg-info/SOURCES.txt
+bit_visualize.egg-info/dependency_links.txt
+bit_visualize.egg-info/requires.txt
+bit_visualize.egg-info/top_level.txt
